@@ -1,0 +1,10 @@
+---
+- hosts: localhost
+  connection: local
+  roles:
+  - cb-baseline-arole
+  - cb-nerdfonts-arole
+  - cb-vim-arole
+  - cb-fish-arole
+  - cb-docker-arole
+  - cb-kubectl-arole
