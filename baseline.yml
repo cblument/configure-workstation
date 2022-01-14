@@ -4,8 +4,13 @@
   roles:
   - cb-baseline-arole
   - cb-nerdfonts-arole
+  - cb-starship-arole
   - cb-vim-arole
   - cb-fish-arole
   - cb-docker-arole
   - cb-kubectl-arole
   - cb-kvm-arole
+  - cb-vscode-arole
+  - cb-tmux-arole
+  - cb-obs-arole
+  - cb-signal-arole
